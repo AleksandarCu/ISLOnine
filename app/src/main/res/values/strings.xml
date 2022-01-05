@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ISLOnline Test Application</string>
+    <string name="action_sum">Sum</string>
+    <string name="action_login">Login</string>
+
+    <!--  Sum activity  -->
+    <string name="plus_sign">+</string>
+    <string name="equals_sign">=</string>
+    <string name="result">0</string>
+
+    <!--  Login activity  -->
+    <string name="username_placeholder">Username or email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="sid">SID</string>
+</resources>
